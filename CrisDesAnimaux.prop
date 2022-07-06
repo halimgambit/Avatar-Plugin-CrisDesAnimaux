@@ -1,0 +1,26 @@
+{
+"modules": { 
+"CrisDesAnimaux": {
+"version": "1.0",
+"timeout_start":2,
+"name": "crisdesanimaux",
+"animaux":{
+"chat":"https://www.dinosoria.com/sons/animaux/chat.mp3",
+"chameau":"https://www.dinosoria.com/sons/0237.mp3",
+"chien":"https://www.dinosoria.com/sons/animaux/berger_allemand.wav",
+"elephant":"https://www.dinosoria.com/sons/0218.mp3",
+"mouton":"https://www.dinosoria.com/sons/animaux/mouton.mp3",
+"ane": "https://www.dinosoria.com/sons/animaux/ane.mp3",
+"singe": "https://www.dinosoria.com/sons/animaux/0058.mp3",
+"renard": "https://www.dinosoria.com/sons/animaux/0154.mp3",
+"tigre": "https://www.dinosoria.com/sons/animaux/tigre.mp3",
+"vache": "https://www.dinosoria.com/sons/animaux/vache.mp3"
+},
+"rules":{
+"stopanimal":["stop * animal","close * animal"],
+"animal":["animal","animals"]
+}
+}
+}
+}
+			
