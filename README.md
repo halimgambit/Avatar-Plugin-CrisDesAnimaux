@@ -3,7 +3,7 @@
 - - pas de régle fixe il suffit qu'il y'a dans la pharase le mot animale ou animaux
 - exemple : fait le cris d'animale ou fait le cris des animaux
 - les cris des animaux disponible sont : "le chat" , "le chameau" , "le chien":" , "l'elephant" , "le mouton" , "l'ane, "le singe" , "le renard" , "le tigre" , "la vache"
-- pour rajouter d'autre cris d'animaux aller sur ce site : https://www.dinosoria.com/sons_nature.htm et rajouter sur le ficher proprité comme l'exemple ci dessous
+- pour rajouter d'autre cris d'animaux aller sur ce site : https://www.dinosoria.com/sons_nature.htm et rajouter sur le ficher propriété comme l'exemple ci dessous
 "animaux":{
 "chat":"https://www.dinosoria.com/sons/animaux/chat.mp3",
 "chameau":"https://www.dinosoria.com/sons/0237.mp3",
