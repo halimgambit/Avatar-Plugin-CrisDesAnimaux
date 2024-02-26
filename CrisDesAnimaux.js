@@ -48,8 +48,9 @@ if (fs.existsSync(animalFilePath)) {
         Avatar.Speech.end(data.client);
     });
 }
-	
+
 }
+
 
 function setClient(data) {
     let client = data.client;
