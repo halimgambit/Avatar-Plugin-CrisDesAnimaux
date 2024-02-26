@@ -1,0 +1,10 @@
+{
+	"modules": { 
+		"CrisDesAnimaux": {
+			"version": "1.0",
+			"name": "cris_animal",
+			"rules": ["animal","animal cry"]
+		}
+	}
+}
+			
